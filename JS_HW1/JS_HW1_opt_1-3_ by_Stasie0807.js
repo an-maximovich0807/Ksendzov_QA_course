@@ -1,6 +1,6 @@
 function checkAge(age_1) {
-    let age_2 = 18;
-    let age_3 = 60;
+    const age_2 = 18;
+    const age_3 = 60;
     if (isNaN(age_1)) {
         console.log("Write a number");
     } else {
