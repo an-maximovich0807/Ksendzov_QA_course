@@ -1,5 +1,7 @@
-function checkAge(age_1, age_2, age_3) {
-    if (isNaN(age_1) || isNaN(age_2) || isNaN(age_3)) {
+function checkAge(age_1) {
+    let age_2 = 18;
+    let age_3 = 60;
+    if (isNaN(age_1)) {
         console.log("Write a number");
     } else {
         if (age_1 < age_2) {
@@ -12,17 +14,19 @@ function checkAge(age_1, age_2, age_3) {
             );
         } else if ((age_1 >= age_2, age_1 < age_3)) {
             console.log("You are welcome!");
-        } else if (age_1 >= age_3) {
+        } else if (age_1 > age_3) {
             console.log("Keep calm and watch Culture channel");
-        }
+        } else console.log("Technical works");
     }
     return age_1;
 }
 console.log("----------------Check additional task #1--------------");
-checkAge(17, 18, 61);
+checkAge(17);
+checkAge(18);
+checkAge(61);
 
 console.log("----------------Check additional task #2--------------");
-checkAge(17, "Hello mentor", 61);
+checkAge("Mentor glad to see you again");
 
 console.log("----------------Check additional task #3--------------");
-checkAge(17, 18, "61");
+checkAge("61");
