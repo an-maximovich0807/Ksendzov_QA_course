@@ -12,7 +12,7 @@ function checkAge() {
                 " It's less then " +
                 age_2
         );
-    } else if ((age_2 >= age_1) & (age_1 < age_3)) {
+    } else if (age_2 >= age_1 && age_1 < age_3) {
         alert("You are welcome!");
     } else if (age_1 > age_3) {
         alert("Keep calm and watch Culture channel");
