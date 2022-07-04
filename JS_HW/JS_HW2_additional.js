@@ -67,3 +67,19 @@ getWordStructure("Case");
 
 console.log("-- Check#3 'Check-list' --");
 getWordStructure("Check-list");
+
+console.log("----------------- Task 4****-----------------");
+
+function isPalindrom(word) {
+    word = word.toLowerCase();
+    if (word === word.split("").reverse().join("")) {
+        console.log("Your word is a palindrom");
+    } else console.log("Your word isn't a palindrom");
+    return word;
+}
+
+console.log("-- Check#1 'abba' --");
+isPalindrom("abba");
+
+console.log("-- Check#2 'Abba' --");
+isPalindrom("Abba");
