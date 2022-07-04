@@ -53,4 +53,4 @@ mv qa1/2.txt qa1/3.txt ./qa2;
 
 2.2. Запустила файл. Скрипт выполняется..
 
-OK, so, i just want to edit this file a little.
+OK, so, i just want to edit this file a little. .
