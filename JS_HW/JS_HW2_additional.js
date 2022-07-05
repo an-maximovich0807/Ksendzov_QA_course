@@ -9,11 +9,13 @@ while (i <= 10) {
 console.log("----------------- Task 1*-----------------");
 
 function power(a) {
-    let rez = 2 ** a;
-    console.log(rez);
-    return a;
+    let i = 1;
+    while (2 ** i <= 2 ** a) {
+        console.log(2 ** i);
+        i++;
+    }
 }
-power(3);
+power(2);
 
 console.log("----------------- Task 2-----------------");
 
