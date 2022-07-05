@@ -34,7 +34,6 @@ function printSmile(stroka, numberOfRows) {
         console.log(stroka.repeat(mn));
         mn++;
     }
-    return stroka, numberOfRows;
 }
 printSmile("*", 4);
 
@@ -59,7 +58,6 @@ function getWordStructure(word) {
         ccount,
         " consonants letters."
     );
-    return ccount, vcount;
 }
 console.log("-- Check#1 'case' --");
 getWordStructure("case");
@@ -77,7 +75,6 @@ function isPalindrom(word) {
     if (word === word.split("").reverse().join("")) {
         console.log("Your word is a palindrom");
     } else console.log("Your word isn't a palindrom");
-    return word;
 }
 
 console.log("-- Check#1 'abba' --");
