@@ -10,6 +10,6 @@
          ![image text](https://github.com/an-maximovich0807/Git_media/blob/master/run_collection_scr.png)
         - In the *Run Order* window **deselect** Task#2, Task#3 and Task#4.  
          ![image text](https://github.com/an-maximovich0807/Git_media/blob/master/run_screen_scr.png)   
-        - Press **Select File** in the *Run Settings* window and upload **Check_up_cases.csv** file. Tick the **Save responses** checkbox and press **Run HW2_additional**
-         ![image text](https://github.com/an-maximovich0807/Git_media/blob/master/run_settings_scr.png)
+        - Press **Select File** in the *Run Settings* window and upload **Check_up_cases.csv** file. Tick the **Save responses** checkbox and press **Run HW2_additional**  
+         ![image text](https://github.com/an-maximovich0807/Git_media/blob/master/run_settings_scr.png)  
      -**Done!**
