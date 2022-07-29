@@ -5,7 +5,7 @@
     - To check Task 1 you should make some preparation steps:  
         - Download **Check_up_cases.csv** file.
         - Download and import **HW2_additional.postman_collection.json**.  
-        
-        - Press *Run collection* ![image text](https://github.com/an-maximovich0807/Git_media/blob/master/run_collection_scr.png)
+        - Press *Run collection* 
+         ![image text](https://github.com/an-maximovich0807/Git_media/blob/master/run_collection_scr.png)
   
   **P.S.** Don't forget about environment. You can find it in **KSENZOV COURSE 1.postman_environment.json** file.
