@@ -1,0 +1,29 @@
+name,age,salary
+Nas,18,1
+AAAaaa!@#$%^ РФЩчофту90rt421LL0021sjdi__,120,1000000
+Na,18,1
+" Na",18,"1
+"
+"Na ",18,1
+,18,1
+<script>alert('name')</script>,18,1
+<b>name</b>,18,"1
+"
+Nas,17,1
+Nas,121,1
+Nas,1e1,1
+Nas,18abc,1
+Nas,0,1
+Nas,-18,1
+Nas,true,1
+Nas,18.1,1
+Nas,18,0
+Nas,18,1000001
+Nas,18,1e1
+Nas,18,1000000.1
+Nas,18,true
+Nas,18,-1
+Nas,18,1+1
+Nas,18,1abc
+Nas,18,
+Nas,18+1,1
